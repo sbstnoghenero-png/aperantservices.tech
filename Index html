@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Aperant Services Limited — Automating Wealth</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --white:#ffffff;--off:#f7f5fc;
+  --pd:#1a0a2e;--pm:#3d1f6e;--pp:#6b2fa0;--pl:#9b59d0;
+  --pale:#e9d8f8;--ghost:#f3ecfd;
+  --td:#0e0518;--tb:#2a1a40;--tm:#8470a8;--border:#ddd0f0;
+  --gold:#c9a84c;--green:#22c55e;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Inter',sans-serif;background:var(--white);color:var(--td);overflow-x:hidden}
